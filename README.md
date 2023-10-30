@@ -8,6 +8,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
+# AirBnB Clone - RESTful API
+Implementing a RESTful API is the fifth segment of the AirBnB clone project at Holberton School. It will be used as the standardized structure of the frontend and backend interacting with each other. 
+
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
